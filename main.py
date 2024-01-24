@@ -11,10 +11,10 @@ import time
 import requests 
 import os
 
-client = OpenAI(api_key="OPENAI-KEY") #This will need to be changed to your own API key, if it doesn't work. Check README.md for more information. 
+client = OpenAI(api_key="OPENAI-KEY") #This will need to be changed to your own API key. Check README.md for more information. 
 engine = pyttsx3.init()
 
-API_KEY = 'WEATHERAPI-KEY' #This will need to be changed to your own API key, if it doesn't work. Check README.md for more information.
+API_KEY = 'WEATHERAPI-KEY' #This will need to be changed to your own API key. Check README.md for more information.
 BASE_URL = 'http://api.weatherapi.com/v1/current.json'
 servoL_pin = 12 #Left servo
 servoR_pin = 33 #Right servo
