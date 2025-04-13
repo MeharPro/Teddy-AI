@@ -1,8 +1,13 @@
 Hey there! Thanks for using our AI bot, Teddy. - Mehar and Ben
+
 T-TACTAL
+
 E-ENHANCED
+
 D-DIGITAL
+
 D-DECISION-MAKING
+
 Y-YOTTACORE
 
 **General Information**
