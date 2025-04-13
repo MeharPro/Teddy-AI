@@ -1,6 +1,6 @@
 Hey there! Thanks for using our AI bot, Teddy. - Mehar and Ben
 
-T-TACTAL
+T-TACTICAL
 
 E-ENHANCED
 
