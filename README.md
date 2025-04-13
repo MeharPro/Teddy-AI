@@ -1,4 +1,9 @@
 Hey there! Thanks for using our AI bot, Teddy. - Mehar and Ben
+T-TACTAL
+E-ENHANCED
+D-DIGITAL
+D-DECISION-MAKING
+Y-YOTTACORE
 
 **General Information**
 We've made a moving AI robot assistant with servos using a RaspberryPi, able to move on command, talk using its voice and mic input, and retrieve past conversations, and as it's using OpenAIs GPT-3.5-turbo, it's not limited to any conversation.  
